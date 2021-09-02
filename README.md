@@ -30,5 +30,6 @@ Note: all are seperated by new line
 - URL link to the coding problem
 
 
-** NOTE: ** Use `chore: ...` for updating folder structer, guidelines, etc.; no production code change)
-When using chore there isn't need to use The Body and The Reference
+**NOTE:** Use `chore: ...` for updating folder structer, guidelines, etc.; no production code change.
+
+When using chore there isn't need to use `The Body` and `The Reference`
